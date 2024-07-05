@@ -1,11 +1,10 @@
 # Python
 *.pyc
 *~
-
 __pycache__
 
 # Env
-.env 
+.env
 myvenv/
 venv/
 
@@ -22,10 +21,10 @@ db.sqlite3
 .Spotlight-V100
 
 # Windows
-Thumb.db*
+Thumbs.db*
 ehthumbs*.db
 [Dd]esktop.ini
-$RECYLCE.BIN/
+$RECYCLE.BIN/
 
 # Visual Studio
 .vscode/
